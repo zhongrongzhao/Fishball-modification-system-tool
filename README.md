@@ -8,10 +8,15 @@
   #### V1.1 更新
     1.增加了软件图标；
     2.窗体界面不再支持设置窗体大小
-    3.重命名GitHub文件名称“鱼蛋系统修改系统工具” → “鱼蛋系统修改工具” 
+    3.重命名GitHub文件名称“鱼蛋系统修改工具” → “鱼蛋修改系统工具” 
     4.纠正错误字符
+  #### V1.2 更新
+    1.增加了自动把图片截成正方形功能
+    2.增加软件详细信息
 ### 软件下载
 按系统（32/64位）对应下载：
++ 鱼蛋修改系统工具 V1.2（32位）.exe - \[840 KB\] [Download 鱼蛋系统修改工具](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.2%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
++ 鱼蛋修改系统工具 V1.2（64位）.exe - \[840 KB\] [Download 鱼蛋系统修改工具](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.2%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
 + 鱼蛋修改系统工具 V1.1（32位）.exe - \[840 KB\] [Download 鱼蛋系统修改工具](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E7%B3%BB%E7%BB%9F%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7%20V1.1%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
 + 鱼蛋修改系统工具 V1.1（64位）.exe - \[840 KB\] [Download 鱼蛋系统修改工具](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E7%B3%BB%E7%BB%9F%E4%BF%AE%E6%94%B9%E5%B7%A5%E5%85%B7%20V1.1%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
 + 鱼蛋修改系统工具 V1.0（32位）.exe - \[840 KB\] [Download 鱼蛋系统修改工具](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.0%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-21
