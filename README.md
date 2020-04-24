@@ -13,6 +13,7 @@
   #### V1.2 更新
     1.增加了自动把图片截成正方形功能
     2.增加软件详细信息
+    3.把所有代码整理后重新上传到GitHub
 ### 软件下载
 按系统（32/64位）对应下载：
 + 鱼蛋修改系统工具 V1.2（32位）.exe - \[840 KB\] [Download 鱼蛋系统修改工具](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.2%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-24
@@ -26,7 +27,7 @@
     
 ### 使用指南：
     1.点击右边”点击这里插入图片“按钮进行选择你想改成的图标；
-    2.图片必须格式为.bmp、比例为正方形；
+    2.图片必须格式为.bmp；
     3.把你想设置的”制造商“名称输入右下角的文本框；
     4.插入图标和制作商名称都可以独立进行修改；
     5.设置好点击”修改“按钮则进行修改；
