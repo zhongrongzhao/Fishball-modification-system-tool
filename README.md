@@ -16,12 +16,12 @@
     4.纠正错误字符
 ### 软件下载
 按系统（32/64位）对应下载：
-+ 鱼蛋修改系统工具 V1.2（32位） - \[908 KB\] [Download EXE](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.2%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-24
-+ 鱼蛋修改系统工具 V1.2（64位） - \[908 KB\] [Download EXE](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.2%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-24
-+ 鱼蛋修改系统工具 V1.1（32位） - \[907 KB\] [Download EXE](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.1%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
-+ 鱼蛋修改系统工具 V1.1（64位） - \[907 KB\] [Download EXE](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.1%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
-+ 鱼蛋修改系统工具 V1.0（32位） - \[840 KB\] [Download EXE](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.0%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-21
-+ 鱼蛋修改系统工具 V1.0（64位） - \[840 KB\] [Download EXE](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.0%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-21
++ 鱼蛋修改系统工具 V1.2（32位） - \[908 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.2%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-24
++ 鱼蛋修改系统工具 V1.2（64位） - \[908 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.2%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-24
++ 鱼蛋修改系统工具 V1.1（32位） - \[907 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.1%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
++ 鱼蛋修改系统工具 V1.1（64位） - \[907 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.1%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-23
++ 鱼蛋修改系统工具 V1.0（32位） - \[840 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.0%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-21
++ 鱼蛋修改系统工具 V1.0（64位） - \[840 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V1.0%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-4-21
 ### 简介：
     本软件可修改”控制面板\系统和安全\系统“的图标与”制造商“名称。
     
