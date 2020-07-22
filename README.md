@@ -63,7 +63,9 @@
     5.设置好点击”修改“按钮则进行修改；
     6.点击”清除“按钮则”控制面板\系统和安全\系统“上的图标和”制造商“名称都清除。
 ### 软件截图： 
-![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.0%20001.png)
-![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.0%20002.png)
-![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.0%20003.png)
+![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20001.png)
+![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20002.png)
+![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20003.png)
+![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20004.png)
+![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20005.png)
 ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/%E8%B5%9E%E5%8A%A9.png)
