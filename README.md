@@ -64,14 +64,14 @@
     6.点击”清除“按钮则”控制面板\系统和安全\系统“上的图标和”制造商“名称都清除。
 ### 软件截图： 
 #### 开发界面
-    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20001.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20001.png)
 #### 修改控制面板
-    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20002.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20002.png)
 #### 激活Win 10
-    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20003.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20003.png)
 #### 电脑配置信息
-    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20004.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20004.png)
 #### 开始栏图标
-    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20005.jpg)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20005.jpg)
 #### 赞助
-    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/%E8%B5%9E%E5%8A%A9.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/%E8%B5%9E%E5%8A%A9.png)
