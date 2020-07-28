@@ -79,7 +79,7 @@
    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20004.PNG)
 #### 5.优化系统内存
    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20005.PNG)
-#### 5.开始栏图标
+#### 6.开始栏图标
    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20005.jpg)
 #### 赞助
    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/%E8%B5%9E%E5%8A%A9.png)
