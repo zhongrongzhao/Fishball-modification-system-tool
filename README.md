@@ -76,7 +76,7 @@
 #### 3.激活Win 10
    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20003.png)
 #### 4.电脑配置信息
-   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20004.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20004.PNG)
 #### 5.优化系统内存
    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20005.PNG)
 #### 5.开始栏图标
