@@ -5,6 +5,10 @@
 ### 框架：
   .Net Framwork 4.7.2  
 ### 版本更新细节
+  #### V2.2 更新
+    1.优化界面GUI
+    2.新增“优化系统内存”界面
+    3.新增释放内存功能
   #### V2.1 更新
     1.优化界面GUI
     2.新增“电脑配置信息”界面
@@ -36,6 +40,8 @@
     4.纠正错误字符
 ### 软件下载 
 按系统（32/64位）对应下载：
++ 鱼蛋修改系统工具 V2.2（32位） - \[216 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V2.2%EF%BC%8832%E4%BD%8D%EF%BC%89.zip) - Released 2020-7-28
++ 鱼蛋修改系统工具 V2.2（64位） - \[216 KB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V2.2%EF%BC%8864%E4%BD%8D%EF%BC%89.zip) - Released 2020-7-28
 + 鱼蛋修改系统工具 V2.1（32位） - \[1.2 MB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V2.1%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-7-22
 + 鱼蛋修改系统工具 V2.1（64位） - \[1.2 MB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V2.1%EF%BC%8864%E4%BD%8D%EF%BC%89.exe) - Released 2020-7-22
 + 鱼蛋修改系统工具 V2.0（32位） - \[1.12 MB\] [点击下载](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Download%20All%20Version/%E9%B1%BC%E8%9B%8B%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7%20V2.0%EF%BC%8832%E4%BD%8D%EF%BC%89.exe) - Released 2020-7-18
@@ -64,13 +70,15 @@
     6.点击”清除“按钮则”控制面板\系统和安全\系统“上的图标和”制造商“名称都清除。
 ### 软件截图： 
 #### 1.开发界面
-   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20001.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20001.png)
 #### 2.修改控制面板
-   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20002.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20002.png)
 #### 3.激活Win 10
-   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20003.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20003.png)
 #### 4.电脑配置信息
-   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20004.png)
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20004.png)
+#### 5.优化系统内存
+   ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.2%20005.PNG)
 #### 5.开始栏图标
    ![image](https://github.com/zhongrongzhao/Fishball-modification-system-tool/blob/master/Version%20Images/V2.1%20005.jpg)
 #### 赞助
